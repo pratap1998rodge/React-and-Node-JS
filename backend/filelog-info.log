@@ -1,0 +1,28 @@
+{"level":"info","message":"Server is running on port 5000.","timestamp":"2023-02-27T12:57:35.900Z"}
+{"level":"info","message":"Server is running on port 5000.","timestamp":"2023-02-27T12:58:46.261Z"}
+{"level":"info","message":"Retrieve all Products from the database.","timestamp":"2023-02-27T12:58:51.459Z"}
+{"level":"warn","message":" Retrieve all Products from the database.","timestamp":"2023-02-27T12:58:51.459Z"}
+{"level":"error","message":"Retrieve all Products from the database.","timestamp":"2023-02-27T12:58:51.459Z"}
+{"level":"info","message":"Server is running on port 5000.","timestamp":"2023-02-27T13:00:29.124Z"}
+{"level":"error","message":"Retrieve all Products from the database.","timestamp":"2023-02-27T13:00:33.295Z"}
+{"level":"warn","message":" Retrieve all Products from the database.","timestamp":"2023-02-27T13:00:33.296Z"}
+{"level":"info","message":"Retrieve all Products from the database.","timestamp":"2023-02-27T13:00:33.297Z"}
+{"level":"info","message":"Server is running on port 5000.","timestamp":"2023-02-27T13:01:37.664Z"}
+{"level":"warn","message":" Retrieve all Products from the database.","timestamp":"2023-02-27T13:01:41.782Z"}
+{"level":"error","message":"Retrieve all Products from the database.","timestamp":"2023-02-27T13:01:41.782Z"}
+{"level":"info","message":"Retrieve all Products from the database.","timestamp":"2023-02-27T13:01:41.782Z"}
+{"level":"info","message":"Server is running on port 5000.","timestamp":"2023-02-27T13:02:00.958Z"}
+{"level":"warn","message":" Retrieve all Products from the database.","timestamp":"2023-02-27T13:02:05.628Z"}
+{"level":"error","message":"Retrieve all Products from the database.","timestamp":"2023-02-27T13:02:05.629Z"}
+{"level":"info","message":"Retrieve all Products from the database.","timestamp":"2023-02-27T13:02:05.630Z"}
+{"level":"info","message":"Find a single Product with an id successfully","timestamp":"2023-02-27T13:04:48.807Z"}
+{"level":"info","message":"Server is running on port 5000.","timestamp":"2023-02-27T13:04:48.814Z"}
+{"level":"warn","message":" Retrieve all Products from the database.","timestamp":"2023-02-27T13:04:53.596Z"}
+{"level":"error","message":"Retrieve all Products from the database.","timestamp":"2023-02-27T13:04:53.597Z"}
+{"level":"info","message":"Retrieve all Products from the database.","timestamp":"2023-02-27T13:04:53.598Z"}
+{"level":"info","message":"Server is running on port 5000.","timestamp":"2023-02-27T13:05:51.164Z"}
+{"level":"warn","message":" Retrieve all Products from the database.","timestamp":"2023-02-27T13:05:55.845Z"}
+{"level":"error","message":"Retrieve all Products from the database.","timestamp":"2023-02-27T13:05:55.846Z"}
+{"level":"info","message":"Retrieve all Products from the database.","timestamp":"2023-02-27T13:05:55.847Z"}
+{"level":"info","message":"Server is running on port 5000.","timestamp":"2023-02-27T13:38:12.536Z"}
+{"level":"info","message":"Server is running on port 5000.","timestamp":"2023-02-27T13:38:24.225Z"}
